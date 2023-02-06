@@ -28,6 +28,5 @@
         - empty - just not put in anything for default behavoir
         - c - treats the line as comment - disabled item in the context menu
         - i - ignores the line for menu parsing - comment in the data file
-            - needs to have
 
 * if there is more than 10 items in Menu or SubMenu, number hotkey will cycle highlight through them and you have to confirm with enter the one you want
