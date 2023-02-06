@@ -1,0 +1,14 @@
+MenuComment|||c/
+Menu1|subMenu1.1|value to paste|/
+Menu1|subMenuComment||c/
+Menu1|subMenu1.2|value1.2|/
+This is just a commet in data|||i/
+Menu2|subMenuComment||c/
+Menu2|subMenu2.1|value2.1|/
+Menu2|This is just a comment in data||i/
+Menu2|subMenu2.2|value2.2|/
+Menu3|subMenu3.1-multiline|Lorem ipsum 
+dolor sit amet, 
+consectetur adipiscing elit.|/
+This is just direct value without submenu|||c/
+Menu4-noSubMenu||direct value|/
