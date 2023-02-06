@@ -8,6 +8,7 @@
     - use on cursor or not is configurable for each method
     - you can change the hotkeys in code yourself
 
+![](example.png)
 ## description
 * it just pastes the defined text
 * custom data format
