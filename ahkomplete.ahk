@@ -29,6 +29,7 @@ ahkomplete(clickBefore) {
     }
 
     ;read "rows"
+    FileEncoding, UTF-8
     FileRead, data, data.txt
     Rows := StrSplit(data, "/`r`n")
 
